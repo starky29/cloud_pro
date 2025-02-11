@@ -4,6 +4,7 @@ resource "yandex_vpc_subnet" "private" {
   zone           = var.default_zone
   network_id     = yandex_vpc_network.netology.id
   v4_cidr_blocks = var.default_cidr_privat
+  route_table_id = yandex_vpc_route_table.route_table.id
 }
 #создание таблицы маршрутизации и добавление статического маршрута
 resource "yandex_vpc_route_table" "route_table" {

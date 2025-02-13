@@ -22,3 +22,19 @@
 4. (дополнительно)* Создать Application Load Balancer с использованием Instance group и проверкой состояния.
 
 --- 
+
+### Решение
+* Бакет:
+* ![alt text](img/image.png)
+https://storage.yandexcloud.net/starkov-2025-13-02/pic.jpg
+* Публичный адрес балансера:
+* ![alt text](img/image-1.png)
+* Инстансы:
+* ![alt text](img/image-2.png)
+* Картинка:
+* ![alt text](img/image-3.png)
+* группа балансировщика:
+* ![alt text](img/image-4.png)
+* Проверка балансировщика:
+* ![alt text](img/image-5.png)
+

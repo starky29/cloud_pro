@@ -28,3 +28,9 @@ aws s3 mb s3://mysuperbacketname2021
 aws s3 cp index.html s3://mysuperbacketname2021
 ```
 --- 
+
+### Решение
+
+* ![alt text](img/image.png)
+* ![alt text](img/image-1.png)
+* ![alt text](img/image-2.png)
